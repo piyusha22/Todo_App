@@ -1,8 +1,10 @@
-package com.example.todo_app;
+package com.example.todo_app.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.todo_app.R;
 
 public class MainActivity extends AppCompatActivity {
 
