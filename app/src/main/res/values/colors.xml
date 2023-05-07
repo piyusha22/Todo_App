@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    //By default
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +9,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    //Added colors
+    <color name="gray">#F7F7F7</color>
+    <color name="primary_color">#E9E9E9</color>
+    <color name="primary_dark">#FFFFFF</color>
+    <color name="low_priority">#67B926</color>
+    <color name="high_priority">#CB271D</color>
+    <color name="medium_priority">#FFB701</color>
+    <color name="background_color">#ECECEC</color>
+    <color name="btn_color">#EF6C00</color>
+    <color name="upper_color">#E65100</color>
+
 </resources>
